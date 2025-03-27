@@ -1,0 +1,15 @@
+
+Current active_queue:
+Task 1 Name: gacha1l Priority: 3 Currently waiting for execution
+Task 2 Name: gacha1r Priority: 3 Currently waiting for execution
+Task 3 Name: gacha2l Priority: 3 Currently waiting for execution
+Task 4 Name: gacha2r Priority: 3 Currently waiting for execution
+Task 5 Name: gacha3l Priority: 3 Currently waiting for execution
+...and 68 more tasks.
+Current active_queue:
+Task 1 Name: gacha1r Priority: 3 Currently waiting for execution
+Task 2 Name: gacha2r Priority: 3 Currently waiting for execution
+Task 3 Name: gacha2l Priority: 3 Currently waiting for execution
+Task 4 Name: gacha4r Priority: 3 Currently waiting for execution
+Task 5 Name: gacha3l Priority: 3 Currently waiting for execution
+...and 67 more tasks.

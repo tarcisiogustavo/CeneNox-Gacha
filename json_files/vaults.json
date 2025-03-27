@@ -1,0 +1,12 @@
+[
+    {
+        "name": "vault1",
+        "side": "left",
+        "items":["fabricated","pump","assault","riot","miner"]
+    },
+    {
+        "name": "vault2",
+        "side": "right",
+        "items":["crossbow","metal hatchet","behe","tree"]
+    }
+]

@@ -1,0 +1,36 @@
+
+task_manager_start initiated
+scheduler now running
+Executing task: gacha1l
+inventory opening
+inventory is closed
+inventory opening
+inventory is closed
+inventory opening
+inventory is closed
+transfering all from object
+inventory is closed
+transfering all from object
+inventory is closed
+transfering all from object
+searching in inventory for mejoberry
+transfering all in inventory
+dropping all items
+inventory is closed
+searching in structure/dino for seed
+transfering all from object
+inventory is closed
+transfering all from object
+dropping all items
+searching in inventory for pell
+inventory is already closed
+searching in inventory for seed
+transfering all in inventory
+searching in inventory for pell
+transfering all in inventory
+inventory is closed
+adding gacha1l to waiting queue
+Executing task: gacha1r
+inventory opening
+inventory is closed
+teleporter screen not found

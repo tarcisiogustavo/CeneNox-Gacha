@@ -1,0 +1,434 @@
+[
+    {
+        "name": "gacha1l",
+        "teleporter": "GACHAPAIR01",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha1r",
+        "teleporter": "GACHAPAIR01",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha2l",
+        "teleporter": "GACHAPAIR02",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha2r",
+        "teleporter": "GACHAPAIR02",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha3l",
+        "teleporter": "GACHAPAIR03",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha3r",
+        "teleporter": "GACHAPAIR03",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha4l",
+        "teleporter": "GACHAPAIR04",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha4r",
+        "teleporter": "GACHAPAIR04",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha5l",
+        "teleporter": "GACHAPAIR05",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha5r",
+        "teleporter": "GACHAPAIR05",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha6l",
+        "teleporter": "GACHAPAIR06",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha6r",
+        "teleporter": "GACHAPAIR06",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha7l",
+        "teleporter": "GACHAPAIR07",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha7r",
+        "teleporter": "GACHAPAIR07",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha8l",
+        "teleporter": "GACHAPAIR08",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha8r",
+        "teleporter": "GACHAPAIR08",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha9l",
+        "teleporter": "GACHAPAIR09",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha9r",
+        "teleporter": "GACHAPAIR09",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha10l",
+        "teleporter": "GACHAPAIR10",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha10r",
+        "teleporter": "GACHAPAIR10",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha11l",
+        "teleporter": "GACHAPAIR11",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha11r",
+        "teleporter": "GACHAPAIR11",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha12l",
+        "teleporter": "GACHAPAIR12",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha12r",
+        "teleporter": "GACHAPAIR12",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha13l",
+        "teleporter": "GACHAPAIR13",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha13r",
+        "teleporter": "GACHAPAIR13",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha14l",
+        "teleporter": "GACHAPAIR14",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha14r",
+        "teleporter": "GACHAPAIR14",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha15l",
+        "teleporter": "GACHAPAIR15",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha15r",
+        "teleporter": "GACHAPAIR15",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha16l",
+        "teleporter": "GACHAPAIR16",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha16r",
+        "teleporter": "GACHAPAIR16",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha17l",
+        "teleporter": "GACHAPAIR17",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha17r",
+        "teleporter": "GACHAPAIR17",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha18l",
+        "teleporter": "GACHAPAIR18",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha18r",
+        "teleporter": "GACHAPAIR18",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha19l",
+        "teleporter": "GACHAPAIR19",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha19r",
+        "teleporter": "GACHAPAIR19",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha20l",
+        "teleporter": "GACHAPAIR20",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha20r",
+        "teleporter": "GACHAPAIR20",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha21l",
+        "teleporter": "GACHAPAIR21",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha21r",
+        "teleporter": "GACHAPAIR21",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha22l",
+        "teleporter": "GACHAPAIR22",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha22r",
+        "teleporter": "GACHAPAIR22",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha23l",
+        "teleporter": "GACHAPAIR23",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha23r",
+        "teleporter": "GACHAPAIR23",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha24l",
+        "teleporter": "GACHAPAIR24",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha24r",
+        "teleporter": "GACHAPAIR24",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha25l",
+        "teleporter": "GACHAPAIR25",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha25r",
+        "teleporter": "GACHAPAIR25",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha26l",
+        "teleporter": "GACHAPAIR26",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha26r",
+        "teleporter": "GACHAPAIR26",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha27l",
+        "teleporter": "GACHAPAIR27",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha27r",
+        "teleporter": "GACHAPAIR27",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha28l",
+        "teleporter": "GACHAPAIR28",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha28r",
+        "teleporter": "GACHAPAIR28",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha29l",
+        "teleporter": "GACHAPAIR29",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha29r",
+        "teleporter": "GACHAPAIR29",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha30l",
+        "teleporter": "GACHAPAIR30",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha30r",
+        "teleporter": "GACHAPAIR30",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha31l",
+        "teleporter": "GACHAPAIR31",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha31r",
+        "teleporter": "GACHAPAIR31",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha32l",
+        "teleporter": "GACHAPAIR32",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha32r",
+        "teleporter": "GACHAPAIR32",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha33l",
+        "teleporter": "GACHAPAIR33",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha33r",
+        "teleporter": "GACHAPAIR33",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha34l",
+        "teleporter": "GACHAPAIR34",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha34r",
+        "teleporter": "GACHAPAIR34",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha35l",
+        "teleporter": "GACHAPAIR35",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha35r",
+        "teleporter": "GACHAPAIR35",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha36l",
+        "teleporter": "GACHAPAIR36",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha36r",
+        "teleporter": "GACHAPAIR36",
+        "resource_type": "element",
+        "side": "right"
+    }
+]
